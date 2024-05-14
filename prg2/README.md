@@ -1,7 +1,7 @@
 # Tietorakenteet ja algoritmit, syksy 2021
 # Projektityö vaihe 2
 
-Projektissa tekemieni ratkaisujen taustaa
+### Projektissa tekemieni ratkaisujen taustaa
 
 Yritin koko koodiprojektin ajan hyödyntää jo olemassa olevia ja hyväksi havaittuja
 STL:n algoritmeja ja tietorakenteita. Ne ovat epäilemättä optimoitu tekemään työnsä
